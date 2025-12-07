@@ -1,12 +1,16 @@
 🏦 Banking Management System (DBMS Project)
 
 📌 Project Overview
+
 The Banking Management System is a SQL-based database project designed to manage core banking operations, including customer details, account handling, transactions, and loan management.
 This project demonstrates database design, normalization, SQL query writing, and implementation of relational integrity using a relational database management system.
 
 📂 Features Implemented
+
 👤 Customer Management
+
 Add, update, and delete customer records
+
 Store personal details, contact info data
 
 🏦 Account Management
@@ -32,6 +36,7 @@ Maintain Bank Details, Name of the benefits, and Customer details
 Record Beneficiary transactions
 
 🛠️ Database Design
+
 📌 ER Diagram Includes Entities:
 
 Customer
